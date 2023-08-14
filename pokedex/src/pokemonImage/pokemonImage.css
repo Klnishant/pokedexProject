@@ -1,0 +1,26 @@
+#pokemonWrappers{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 30%;
+    flex-wrap: wrap;
+    margin-top: 0.5rem;
+}
+
+#pokemonImage > img{
+    max-height: 200px;
+    margin-top: 0.5rem;
+}
+
+#pokemonImage:hover{
+    background-color: beige;
+}
+
+#pokemonName{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    letter-spacing: 5px;
+    font-size: 20px;
+}

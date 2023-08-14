@@ -1,0 +1,6 @@
+#searchBox{
+    display: flex;
+    width: 600px;
+    padding: 2rem;
+    margin-top: 1rem;
+}
